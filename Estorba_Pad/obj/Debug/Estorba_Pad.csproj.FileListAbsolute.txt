@@ -1,0 +1,10 @@
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\bin\Debug\Estorba_Pad.exe.config
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\bin\Debug\Estorba_Pad.exe
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\bin\Debug\Estorba_Pad.pdb
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.csprojResolveAssemblyReference.cache
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.Form1.resources
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.Properties.Resources.resources
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.csproj.GenerateResource.Cache
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.csproj.CoreCompileInputs.cache
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.exe
+d:\users\crizel\source\repos\Estorba_Pad\Estorba_Pad\obj\Debug\Estorba_Pad.pdb
